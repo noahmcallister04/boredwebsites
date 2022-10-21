@@ -14,4 +14,5 @@
   This website endlessly shows you GIFs and small videos of puppies and dogs. 
  
 __[Back to home](https://github.com/noahmcallister04/Home-Page)__
+
 __[Next Page](https://github.com/noahmcallister04/mycar)__
